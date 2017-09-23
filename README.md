@@ -8,8 +8,8 @@ A hacker news reader pwa (Progressive Web App) built using Quasar framework
 
 * Performance Scores
   * LightHouse: /100 [LightHouse Link]()
-  * Faster_3G: 3.4s [WebpPageTest Link]()
-  * 3G_EM: 4.3s [WebpPageTest Link]()
+  * Faster_3G:  [WebpPageTest Link]()
+  * 3G_EM:  [WebpPageTest Link]()
 
 
 * Built using Quasar PWA starter kit
