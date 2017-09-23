@@ -39,7 +39,7 @@ export default {
     showAbout: function () {
       Dialog.create({
         title: 'HackerNews Progressive Web App made with Quasar Framework',
-        message: 'Author: <a class="ext-link" target="_blank" href="https://www.linkedin.com/in/jonafrank13/">Jona Frank</a></br>Github: <a class="ext-link" target="_blank" href="https://github.com/jonafrank13/hnpwa-quasar">hnpwa-quasar</a>',
+        message: 'Author: <a class="ext-link" target="_blank" href="https://www.linkedin.com/in/jonafrank13/">Jona Frank</a></br>Github: <a class="ext-link" target="_blank" href="https://github.com/jonafrank13/hnpwa-quasar">hnpwa-quasar</a></br>Email: <a class="ext-link" href="mailto:jona.mailbox@gmail.com">jona.mailbox@gmail.com</a></br>Quasar Framework: <a class="ext-link" target="_blank" href="http://quasar-framework.org/">quasar-framework.org</a>',
         buttons: [
           {
             label: 'Close',
