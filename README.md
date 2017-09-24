@@ -1,15 +1,15 @@
 ## Hacker News Reader using Quasar Framework
 
-#### [Link to Application]()
+#### [Link to Application](https://jonafrank13.github.io/hnpwa-quasar/)
 
 A hacker news reader pwa (Progressive Web App) built using Quasar framework
 
 ### Features
 
 * Performance Scores
-  * LightHouse: /100 [LightHouse Link]()
-  * Faster_3G:  [WebpPageTest Link]()
-  * 3G_EM:  [WebpPageTest Link]()
+  * LightHouse: 91/100 [LightHouse Link](https://googlechrome.github.io/lighthouse/viewer/?gist=00aed89c357bad82c285cc5f98349212)
+  * Faster_3G: 5.6s [WebpPageTest Link](https://googlechrome.github.io/lighthouse/viewer/?gist=00aed89c357bad82c285cc5f98349212)
+  * 3G_EM: 8.5s [WebpPageTest Link](https://googlechrome.github.io/lighthouse/viewer/?gist=00aed89c357bad82c285cc5f98349212)
 
 
 * Built using Quasar PWA starter kit
